@@ -1,7 +1,7 @@
 ### Words Commonly Mispronounced by Chinese Programmers
-### 中国程序员容易发音错误的单词(点击🔊收听正确读音)
+### 容易发音错误的单词(点击🔊收听正确读音)
 
-| 单词 | 正确发音（英音）| 正确发音（美音）| 错误发音 |
+| Word|      BrE.   |    AmE.     |  Wrong  |
 | --- | ----------- | ----------- | ---------- |
 | access | [🔊](https://dict.youdao.com/dictvoice?audio=access&type=1)  /'ækses/ | [🔊](https://dict.youdao.com/dictvoice?audio=access&type=2)  /ˈækses/ |  ❌ /ək'ses/ |
 | Adobe | [🔊](https://dict.youdao.com/dictvoice?audio=Adobe&type=1)  /ə'dəʊbi/ | [🔊](https://dict.youdao.com/dictvoice?audio=Adobe&type=2)  /ə'dəʊbi/ |  ❌ /əˈdub/ |
@@ -112,20 +112,20 @@
 | YouTube | [🔊](https://dict.youdao.com/dictvoice?audio=youtube&type=1)  /'juː'tjuːb/ | [🔊](https://dict.youdao.com/dictvoice?audio=youtube&type=2)  /'juː'tjuːb/ |  ❌ /'juː'tʊbɪ/ |
 
 
-### 附注
+### Note
 * 当使用简名 ‘Kube’ 称呼 ‘Kubernetes’ 时, 发音则与 ‘cube’(/kjuːb/) 一致
 
-### 其他相关链接
+### Related Links
 1. 真人发音 https://www.bilibili.com/video/bv1nv411i7z3 (by @hailintao)
 1. 简洁的单词列表，正确读音不用再打开新网页 https://cpwp.netlify.app/ (by @antfu7)
-1. 国际音标严式记音（纽约音）https://github.com/b1f6c1c4/programming-pronunciations-en_US (by @b1f6c1c4)
+1. 国际音标严式记音（New York native pronunciation）https://github.com/b1f6c1c4/programming-pronunciations-en_US (by @b1f6c1c4)
 
 
-### 说明
+### Description
 1. 本着简单的原则, 又为了避免程序猿们出现选择困难症, '正确音标'采用了最接近有道词典音频的英式 DJ 音标, 不代表其唯一性
 1. 专业在线英语词典请参考[知乎链接:在线英语词典哪个比较好?](https://www.zhihu.com/question/19707759)
 
-### 参考资料
+### Reference
 1. https://www.zhihu.com/question/19739907
 2. https://www.v2ex.com/t/131094
 3. https://www.v2ex.com/t/309350
