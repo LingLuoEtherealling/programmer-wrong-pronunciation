@@ -1,5 +1,5 @@
 ### Words Commonly Mispronounced
-### 容易发音错误的单词(点击🔊收听正确读音)
+### 点击🔊收听正确读音
 
 | Word|      BrE.   |    AmE.     |  Wrong  |
 | --- | ----------- | ----------- | ---------- |
@@ -122,8 +122,9 @@
 
 
 ### Description
-1. 本着简单的原则, 又为了避免程序猿们出现选择困难症, '正确音标'采用了最接近有道词典音频的英式 DJ 音标, 不代表其唯一性
-1. 专业在线英语词典请参考[知乎链接:在线英语词典哪个比较好?](https://www.zhihu.com/question/19707759)
+1. 音标采用了最接近有道词典音频的英式 DJ 音标.
+2. 专业在线英语词典
+请参考[知乎链接:在线英语词典哪个比较好?](https://www.zhihu.com/question/19707759)
 
 ### Reference
 1. https://www.zhihu.com/question/19739907
@@ -132,3 +133,6 @@
 4. https://www.v2ex.com/t/63781
 5. https://www.v2ex.com/t/246033
 6. https://www.v2ex.com/t/342087
+
+### Additional narrative
+1.Review the pronunciation of English words.
