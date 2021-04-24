@@ -1,4 +1,4 @@
-### Words Commonly Mispronounced by Chinese Programmers
+### Words Commonly Mispronounced
 ### 容易发音错误的单词(点击🔊收听正确读音)
 
 | Word|      BrE.   |    AmE.     |  Wrong  |
